@@ -1,4 +1,5 @@
-https://img.shields.io/github/license/ryananimo64/js
+![GitHub License](https://img.shields.io/github/license/ryananimo64/js)
+
 
 
 # JavaScript
