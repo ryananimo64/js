@@ -1,5 +1,6 @@
 /**
- * Hello World JS 
+ *@author Ryan Rodrigues
+ *Hello World JS 
 */
 
 console.clear()
