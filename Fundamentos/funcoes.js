@@ -1,5 +1,6 @@
 /**
- * Estudo das funções
+ *@author Ryan Rodrigues
+ *Estudo das funções
  */
 
 //Função simples 
