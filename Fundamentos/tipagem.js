@@ -1,5 +1,6 @@
 /**
- * Tipagem Dinâmica - JS
+ *@author Ryan Rodrigues
+ *Tipagem Dinâmica - JS
  */
 
 // declaração de variáveis
