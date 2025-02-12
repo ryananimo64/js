@@ -1,7 +1,7 @@
 /**
  * Operadores
  * -arime
- *  
+ *@author Ryan Rodrigues
  * */
 
 console.clear()
