@@ -1,5 +1,6 @@
 /**
- * HTML JS
+ *@author Ryan Rodrigues
+ *HTML JS
  */
 
 console.log("Hello HTML - JS linkado")
